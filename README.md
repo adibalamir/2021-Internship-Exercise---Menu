@@ -5,7 +5,7 @@ I haven't worked on any coding projects recently. Most of my time has been spent
 
 ## Inspiration
 https://github.com/botpress/botpress
-- I've always been interested in bots and making them as human as possible. Botpress offers developers an API to build and customize their own bots using the power of NLU or natural language processing. I really like how user friendly it seems to use this and how it can easily connect to many popular messaging application such as Slack, facebook messenger, or Microsoft Teams.
+- I've always been interested in bots and making them as human as possible. Botpress offers developers an API to build and customize their own bots using the power of NLU or natural language processing. I really like how user friendly it seems to use this and how it can easily connect to many popular messaging application such as Slack, Facebook messenger, or Microsoft Teams.
 
 https://spamassassin.apache.org/
 - Emails get so cluttered these days. I love any tool that helps filter the good emails from the useless ones. This is a tool for system administrators to filter bad emails so they never reach employee inboxes, thus mitigating risks associated with employees not having the proper cybersecurity awareness training to recognize phishing emails, and increasing efficiency.
